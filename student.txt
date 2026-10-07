@@ -1,0 +1,9 @@
+SV1:
+Ho ten: Bach Trieu Vi
+MSSV: 49.01.104.173
+Lop: 49.01.CNTT.D
+------------------
+SV2:
+Ho ten: Nguyen Tran Bao Thai
+MSSV: 49.01.104.133
+Lop: 49.01.CNTT.A
